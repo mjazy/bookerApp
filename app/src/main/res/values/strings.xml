@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Booker</string>
+    <string name="serviceSelectorText">Wybierz usługę, którą chcesz zamówić</string>
+    <string name="netflixChoiceBoxText">Netflix</string>
+    <string name="hboGOChoiceBoxText">HBO GO</string>
+    <string name="amazonChoiceBoxText">Amazon</string>
+    <string name="mainActivityConfirmationButtonText">Potwierdź</string>
+    <string name="mainActivityEmailTextViewText">Wprowadź swój adres e-mail</string>
+    <string name="dateSelectionTextViewText">Wybierz dni, w których zamówiony pakiet ma być dostępny</string>
+    <string name="dateSelectionConfirmationButtonText">Potwierdź</string>
+    <string name="confirmationActivityHeaderText">Zamówienie złożone, po naiśnięciu przycisku nastąpi przejście do tworzenia e-maila</string>
+    <string name="confirmationActivityQuitButtonText">Zakończ</string>
+</resources>
